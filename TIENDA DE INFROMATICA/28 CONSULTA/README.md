@@ -2,6 +2,8 @@
 
 Calcula la media del precio de todos los productos.
 
+>[!TIP]
+>AVG() y ROUND()
 
 ## Screenshots
 
