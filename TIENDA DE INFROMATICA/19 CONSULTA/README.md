@@ -1,7 +1,7 @@
 # 19 CONSULTA
 Lista todos los productos donde el identificador de fabricante sea 1, 3 o 5.
 
->![IMPORTANT]
+>[!IMPORTANT]
 >Se puede utilizar el operador IN o no
 
 
