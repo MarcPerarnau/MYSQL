@@ -1,1 +1,1 @@
-SELECT * from producto
+SELECT nombre from producto
